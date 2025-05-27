@@ -58,6 +58,5 @@ This platform includes both User and Admin Modules, where the Admin has special 
   ![Screenshot 2025-02-17 185752](https://github.com/user-attachments/assets/acb07d78-c124-41a3-9044-e772b84d17e3)
 
 ## 💡 Author
-Developed by Harshita Raut. Reach out on [LinkedIn] (www.linkedin.com/in/
-harshita-raut-b52351333)
+Developed by Simran Singh. Reach out on [LinkedIn] (https://www.linkedin.com/in/simran-singh-48b560331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_appgi)
 
